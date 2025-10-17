@@ -1,0 +1,14 @@
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/refint/DesafioProjetoHospedagem.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/dotnet-hotel-booking-system/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
